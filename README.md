@@ -1,6 +1,8 @@
 ## OS
 - unix: ArchLinux
 
+![image_review](./dotfile_review.png)
+
 ## Installed package
 - bspwm    : wm
 - sxhkd    : simple x hotkey daemon
